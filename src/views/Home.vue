@@ -6,7 +6,6 @@
     <div class="welcome-text">
       <h5>Hi {{ name || userName }},</h5>
       <h1>WELCOME TO <br />JAPAN</h1>
-      <v-btn to="/explore">Explore</v-btn>
     </div>
 
     <div class="cities">
